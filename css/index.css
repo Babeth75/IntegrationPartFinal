@@ -1,0 +1,19 @@
+.caption {
+	top: 32%;
+}
+h2{
+	color: rgba(0,0,0,.5);
+	font-size: 1.5rem;
+}
+.textNoUnderline{
+	text-decoration: none;
+}
+.textUnderline{
+	text-decoration: underline;
+}
+.ulLineHeight{
+	line-height: 22px;
+}
+.cardHuman:hover > h5{
+		display: none;
+	}
